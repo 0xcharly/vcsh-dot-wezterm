@@ -1,0 +1,10 @@
+*
+!/.gitignore.d
+!/.gitignore.d/wezterm
+!/.README.d
+!/.README.d/wezterm.md
+!/.config
+!/.config/wezterm
+!/.config/wezterm/colors
+!/.config/wezterm/colors/GitHub-Dark.toml
+!/.config/wezterm/wezterm.lua
