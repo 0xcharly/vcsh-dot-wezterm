@@ -6,5 +6,5 @@
 !/.config
 !/.config/wezterm
 !/.config/wezterm/colors
-!/.config/wezterm/colors/GitHub-Dark.toml
+!/.config/wezterm/colors/github_dark.lua
 !/.config/wezterm/wezterm.lua
