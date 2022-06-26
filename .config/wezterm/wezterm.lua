@@ -44,9 +44,9 @@ return {
     'MonoLisa', 'Hack', 'Inconsolata',
   }),
 
-  -- Font size 16 for the best rendering.  Might be on the larger side at some
+  -- Font size 14 for the best rendering.  Might be on the smaller side at some
   -- DPI/screen resolutions.
-  font_size = 16,
+  font_size = 14,
 
   -- Enable the tab bar, use simple look.
   enable_tab_bar = true,
