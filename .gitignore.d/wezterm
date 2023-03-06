@@ -6,6 +6,7 @@
 !/.config
 !/.config/wezterm
 !/.config/wezterm/colors
+!/.config/wezterm/colors/chroma.lua
 !/.config/wezterm/colors/github_dark.lua
 !/.config/wezterm/colors/github_dark_dimmed.lua
 !/.config/wezterm/wezterm.lua
